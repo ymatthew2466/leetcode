@@ -24,13 +24,15 @@ class Solution:
             arrival, duration = customers[i][0], customers[i][1]
             curr_time += duration
 
-            # user waiting for prev order
             if curr_time > arrival:
+                # user waiting for prev order
                 wait = curr_time - arrival
             else:
+                # no line
                 wait = duration
-                curr_time = arrival + duration
+                curr_time = arrival + duration  # set to after this order
             wait_total += wait
+            print(wait)
         
         return wait_total / len(customers)
 
