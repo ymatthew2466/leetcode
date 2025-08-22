@@ -4,7 +4,7 @@ Problems are organized by NeetCode categories
 
 ## 8/21 :
 
-### Count = 8
+Count = 8
 
 - Arrays/Hashing: 1408, 1701, 2073, 3110,
 - Two Pointers: 392, 844, 2486
