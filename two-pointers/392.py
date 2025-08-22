@@ -21,7 +21,7 @@ class Solution:
                 s_index += 1
         
         # assume if s_index gets to end, all chars accounted for
-        return s_index == len(s)
+        return s_index == len(s) 
 
 
 # =============================== #
