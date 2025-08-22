@@ -1,5 +1,9 @@
 # 2073. Time Needed to Buy Tickets
 
+"""
+Future direction:
+Try again with O(N) implementation.
+"""
 from typing import List
 
 
