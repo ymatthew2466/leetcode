@@ -22,7 +22,9 @@ class Solution:
 
         for i in range(len(customers)):
             arrival, duration = customers[i][0], customers[i][1]
-            curr_time += duration
+            
+            if arrival < curr_time:
+                curr_time += duration 
 
             if curr_time > arrival:
                 # user waiting for prev order
