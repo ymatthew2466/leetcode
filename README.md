@@ -4,9 +4,10 @@ Problems are organized by NeetCode categories
 
 ## 8/23 :
 
-Count = 1
+Count = 2
 
 - Arrays/Hashing: 49
+- Math/Geometry: 2807
 
 Notes: redo 49 using ASCII chars
 
