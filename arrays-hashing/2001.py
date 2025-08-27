@@ -1,5 +1,7 @@
 # 2001. Number of Pairs of Interchangeable Rectangles
 
+
+from typing import List
 class Solution:
     def interchangeableRectangles(self, rectangles: List[List[int]]) -> int:
         '''
