@@ -2,10 +2,29 @@ File names are LeetCode problem numbers ( 1.py == Two Sum )
 
 Problems are organized by NeetCode categories
 
+## 8/26
+
+Count = 3
+
+- Arrays: 2001
+- Sliding Window: 1343
+- Backtracking: 78
+
+### Notes
+
+#### Backtrack:
+
+- Use fresh starter values (like phone combinations) when we want FIXED LENGTH.
+  - OR, when each position in result has diff constraints/options (phone digits: diff digits == diff letters)
+- Use empty start and index `backtrack([], 0)` when doing ALL possible combos.
+  - OR, when we're looking at INCLUDE/EXCLUDE decision for each element
+- Claude: If you can describe the problem as "for each element in the input, decide whether to include it," use the empty start approach. If you can describe it as "fill each position/slot with valid options," use fresh starters.
+
 ## 8/25
 
-Count = 2
+Count = 4
 
+- Arrays: 485, 567
 - Sliding Window: 2379, 1984,
 
 ### Notes
