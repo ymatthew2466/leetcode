@@ -2,6 +2,25 @@ File names are LeetCode problem numbers ( 1.py == Two Sum )
 
 Problems are organized by NeetCode categories
 
+## 9/5
+
+Count = 1
+
+- Sliding Window: 1052
+
+## 8/27
+
+Count = 2
+
+Completed Amazon OA
+
+1. 6/15 test cases passed. However, I identified the edge case and printed when I got there. I just couldn't figure out how to fix it. I explained my intuition on how I would if I had more time.
+2. 9/15 test cases passed. Graph question on shortest traversal time. Ran out of time.
+
+### Notes
+
+That was embarassing, and this will never happen to me again.
+
 ## 8/26
 
 Count = 3
