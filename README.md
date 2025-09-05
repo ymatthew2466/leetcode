@@ -6,7 +6,14 @@ Problems are organized by NeetCode categories
 
 Count = 1
 
+- Arrays: 2559
 - Sliding Window: 1052
+
+### Notes
+
+- Prefix sum is array that counts the valid number from index 0 to some index.
+  - prefix[i] is sum of valid words, from 0 to i-1
+  - to find num of valid in range [l, r], we do prefix[r+1] - prefix[l]
 
 ## 8/27
 
