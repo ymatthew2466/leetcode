@@ -4,9 +4,9 @@ Problems are organized by NeetCode categories
 
 ## 9/6
 
-Count = 2
+Count = 3
 
-- Arrays: 1929, 916
+- Arrays: 1929, 916, 28
 
 ### Notes
 
