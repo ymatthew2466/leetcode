@@ -4,9 +4,16 @@ Problems are organized by NeetCode categories
 
 ## 9/6
 
-Count = 1
+Count = 2
 
-- Arrays: 1929
+- Arrays: 1929, 916
+
+### Notes
+
+- Identify when to use a freqency array for characters
+  - freq[i] is # of char appearances, where 0 < i < 26
+- Identify patterns, I.E. 916
+  - Instead of checking each word2 individually, we notice word1 must conform to the highest letter frequency in all of words2
 
 ## 9/5
 
