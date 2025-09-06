@@ -2,9 +2,15 @@ File names are LeetCode problem numbers ( 1.py == Two Sum )
 
 Problems are organized by NeetCode categories
 
-## 9/5
+## 9/6
 
 Count = 1
+
+- Arrays: 1929
+
+## 9/5
+
+Count = 2
 
 - Arrays: 2559
 - Sliding Window: 1052
