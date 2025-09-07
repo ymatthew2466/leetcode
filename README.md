@@ -1,3 +1,15 @@
+## 9/7
+
+Count = 2
+
+- Arrays: 3442 (freq array)
+- Two Pointer: 905
+
+### Notes
+
+- Good to know when to use frequency array
+- Sometimes, we instantiate a new array of SPECIFIED LENGTH to match problem
+
 ## 9/6
 
 Count = 3
