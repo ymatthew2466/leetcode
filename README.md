@@ -1,3 +1,24 @@
+## 9/9
+
+n=1
+
+- Graph: 463
+
+### Notes
+
+- BFS: ALWAYS mark nodes as visited WHEN ADDING TO QUEUE
+- use popleft() for queue rather than pop()
+
+## 9/8
+
+n=1
+
+- Linked List: 206
+
+### Notes
+
+- Try LL problems recursively next time. My recursion needs some practice
+
 ## 9/7
 
 Count = 2
