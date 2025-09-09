@@ -8,6 +8,7 @@ n=1
 
 - BFS: ALWAYS mark nodes as visited WHEN ADDING TO QUEUE
 - use popleft() for queue rather than pop()
+- CONVERT TO DFS: Turn deque into [] and pop() instead of popleft()
 
 ## 9/8
 
