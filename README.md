@@ -21,7 +21,7 @@ n=1
 
 ## 9/7
 
-Count = 2
+n=2
 
 - Arrays: 3442 (freq array)
 - Two Pointer: 905
@@ -33,7 +33,7 @@ Count = 2
 
 ## 9/6
 
-Count = 3
+n=3
 
 - Arrays: 1929, 916, 28
 
@@ -46,7 +46,7 @@ Count = 3
 
 ## 9/5
 
-Count = 2
+n=2
 
 - Arrays: 2559
 - Sliding Window: 1052
@@ -59,7 +59,7 @@ Count = 2
 
 ## 8/27
 
-Count = 2
+n=2
 
 Completed Amazon OA
 
@@ -72,7 +72,7 @@ That was embarassing, and this will never happen to me again.
 
 ## 8/26
 
-Count = 3
+n=3
 
 - Arrays: 2001
 - Sliding Window: 1343
@@ -90,7 +90,7 @@ Count = 3
 
 ## 8/25
 
-Count = 4
+n=4
 
 - Arrays: 485, 567
 - Sliding Window: 2379, 1984,
@@ -101,7 +101,7 @@ Sliding Window: don't overcomplicate, simply track the difference when left is s
 
 ## 8/24
 
-Count = 3
+n=3
 
 - Arrays: 438, 605
 - Sliding Window: 121
@@ -112,7 +112,7 @@ Review sliding window technique: shrink leftmost, expand rightmost
 
 ## 8/23
 
-Count = 4
+n=4
 
 - Arrays: 49
 - Math/Geometry: 2807, 57
@@ -124,7 +124,7 @@ redo 49 using ASCII chars, learn how to sort into buckets, string slice/concat w
 
 ## 8/21
 
-Count = 8
+n=8
 
 - Arrays: 1408, 1701, 2073, 3110,
 - Two Pointers: 392, 844, 2486
