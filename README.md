@@ -1,8 +1,17 @@
 ## 9/12
 
-n=1
+n=2
 
-- Graph: 695
+- Graph: 695, 994
+
+### Notes
+
+#### Multi-source BFS
+
+- Add all starting points to queue BEFORE running BFS algorithm
+- Inside main while loop (q>0),
+  - For-loop thru everything in queue -> THIS IS 1 "LEVEL"
+    - Popleft and for-loop thru neighbors
 
 ## 9/11
 
