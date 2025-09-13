@@ -1,3 +1,16 @@
+## 9/13
+
+n=1
+
+- Graph: 130
+
+### Notes
+
+#### BFS
+
+- Mark the starting cell as visited RIGHT AFTER adding to queue
+  - This is general pattern: add to visited after adding to queue
+
 ## 9/12
 
 n=2
