@@ -1,3 +1,16 @@
+## 9/14
+
+n=2
+
+- Two Pointer: 443, 2109
+
+### Notes
+
+#### Arrays
+
+- [:] is slice that selects all elts from list
+  - arr[:] = arr2, keeps same list object but overwrites everything to arr2
+
 ## 9/13
 
 n=2
