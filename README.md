@@ -1,3 +1,17 @@
+## 9/15
+
+n=1
+
+- Sliding Window: 904
+
+### Notes
+
+#### Sliding Window
+
+- while loop inside for-loop to shrink window
+- can remove stuff from dict to "shrink" window
+  - "del dict[key]" to remove key
+
 ## 9/14
 
 n=2
