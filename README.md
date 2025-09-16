@@ -1,3 +1,10 @@
+## 9/16
+
+n=4
+
+- Completed Capital One OA
+  - practice DP
+
 ## 9/15
 
 n=1
