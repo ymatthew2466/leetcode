@@ -1,3 +1,9 @@
+## 9/17
+
+n=2
+
+- Completed JPMorgan OA
+
 ## 9/16
 
 n=4
