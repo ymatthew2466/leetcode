@@ -1,3 +1,13 @@
+## 9/19
+
+n=1
+
+- Binary Search: 658
+
+### Notes
+
+- Must review basic algo and redo 658
+
 ## 9/18
 
 n=1
