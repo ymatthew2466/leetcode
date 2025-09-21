@@ -1,3 +1,16 @@
+## 9/20
+
+n=1
+
+- Two Pointer: 15
+
+### Notes
+
+#### Two Pointer
+
+- to avoid duplicates, set left to i+1
+  - also, use while loop to increment left/decrement right until we hit a fresh value (avoid set to use less memory)
+
 ## 9/19
 
 n=1
