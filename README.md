@@ -1,8 +1,8 @@
 ## 9/22
 
-n=1
+n=3
 
-- Binary Search: 904
+- Binary Search: 904, 35, 374
 
 ### Notes
 
@@ -13,6 +13,8 @@ n=1
   - for 904, it returns first index where nums[index]>=target
   - We know (>=) condition, so we must check (==) condition explicitly
 - def condition(mid): boolean condition that determines the first valid index
+- if condition(mid): what we have is valid, so look at left to narrow it down
+- else: current is not valid (and nothing to the left is valid either), so look at right to find it
 
 ## 9/21
 
