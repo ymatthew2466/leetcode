@@ -1,4 +1,20 @@
-## 9/20
+## 9/22
+
+n=1
+
+- Binary Search: 904
+
+### Notes
+
+#### Binary Search
+
+- https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-t-rwv8/
+- Template returns first index where the condition is true
+  - for 904, it returns first index where nums[index]>=target
+  - We know (>=) condition, so we must check (==) condition explicitly
+- def condition(mid): boolean condition that determines the first valid index
+
+## 9/21
 
 n=1
 
