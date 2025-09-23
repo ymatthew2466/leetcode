@@ -1,3 +1,17 @@
+## 9/23
+
+n=3
+
+- Binary Search: 69, 367, 162
+
+### Notes
+
+#### Binary Search
+
+- Sometimes consider 1 step at a time for which direction to move
+  - local maxima question, if curr >= right, peak can be at curr or left
+    - if right > curr, peak must be right
+
 ## 9/22
 
 n=3
