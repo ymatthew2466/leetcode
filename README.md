@@ -2,7 +2,7 @@
 
 n=2
 
-- Binary Search: 875, 540
+- Binary Search: 875, 540, 74
 
 ### Notes
 
