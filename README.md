@@ -7,6 +7,7 @@ n=4
 ### Notes
 
 - THINK: HOW TO SPLIT DATA INTO HALVES
+- return to 153 -- fix bounds errors
 
 ## 9/23
 
