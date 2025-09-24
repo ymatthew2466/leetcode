@@ -1,3 +1,13 @@
+## 9/24
+
+n=2
+
+- Binary Search: 875, 540
+
+### Notes
+
+- THINK: HOW TO SPLIT DATA INTO HALVES
+
 ## 9/23
 
 n=3
