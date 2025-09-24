@@ -18,7 +18,6 @@ class Solution:
                ^
         [1,2,3,4,5,6,7,8]
                ^
-
         '''
         low = 0
         high = len(nums)
