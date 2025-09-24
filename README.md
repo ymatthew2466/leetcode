@@ -1,8 +1,8 @@
 ## 9/24
 
-n=2
+n=4
 
-- Binary Search: 875, 540, 74
+- Binary Search: 875, 540, 74, 153
 
 ### Notes
 
