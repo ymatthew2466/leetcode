@@ -4,6 +4,10 @@ n=1
 
 - Binary Search: 2300
 
+### Notes
+
+- Nest binary search inside O(N) iteration for O(N \* logN)
+
 ## 9/25
 
 n=1
