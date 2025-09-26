@@ -4,6 +4,10 @@ n=1
 
 - Binary Search: 441
 
+### Notes
+
+- Upper bound can be vague
+
 ## 9/24
 
 n=4
