@@ -4,6 +4,11 @@ n=1
 
 - Arrays: 3105
 
+### Notes
+
+- Think about how to reduce complexity (variables, if statements)
+  - How can some vars/count represent other states?
+
 ## 9/27
 
 n=1
