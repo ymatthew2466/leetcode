@@ -7,6 +7,7 @@ n=1
 ### Notes
 
 - Check low/high bounds if anything is wrong
+  - I.E. low should be max weight of any package
 
 ## 9/28
 
