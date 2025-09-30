@@ -1,3 +1,13 @@
+## 9/29
+
+n=1
+
+- Binary Search: 1011
+
+### Notes
+
+- Check low/high bounds if anything is wrong
+
 ## 9/28
 
 n=1
