@@ -1,3 +1,17 @@
+## 9/30
+
+n=2
+
+- Graph: 2658, 133
+
+### Nodes
+
+#### Graph
+
+- Dictionaries are very helpful for graph questions
+  - use to retrieve data at each node
+- Adjacency lists also great in dict
+
 ## 9/29
 
 n=1
