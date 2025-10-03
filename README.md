@@ -1,3 +1,16 @@
+## 10/2
+
+n=1
+
+- Graph: 417
+
+### Notes
+
+- To WRITE to variable outside of nested method, use NONLOCAL
+  - pacset = set()
+  - def random():
+    - nonlocal pacset
+
 ## 9/30
 
 n=2
