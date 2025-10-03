@@ -17,7 +17,7 @@ n=2
 
 - Graph: 2658, 133
 
-### Nodes
+### Notes
 
 #### Graph
 
