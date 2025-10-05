@@ -1,3 +1,15 @@
+## 10/4
+
+n=1
+
+- Graph: 207
+
+### Notes
+
+- Adjacency list data structure (MAP)
+  - K: Node, V: Neighbors
+- Run DFS on keys, and explore neighbors
+
 ## 10/2
 
 n=1
