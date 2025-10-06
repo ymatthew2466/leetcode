@@ -1,8 +1,15 @@
 ## 10/5
 
-n=1
+n=2
 
 - Arrays: 1800
+- Binary Search: 2226
+
+### Notes
+
+- BS returns where condition is true
+  - we found first value where K is too large
+  - return 1 less
 
 ## 10/4
 
