@@ -4,8 +4,9 @@ from typing import List
 class Solution:
     def maxAscendingSum(self, nums: List[int]) -> int:
         '''
-        iterate thru arr
+        reset total if ascending is interrupted
 
+        maintain max
         '''
 
         total = nums[0]
