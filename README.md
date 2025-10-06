@@ -10,6 +10,7 @@ n=2
 - BS returns where condition is true
   - we found first value where K is too large
   - return 1 less
+  - READ 2226 NOTES
 
 ## 10/4
 
