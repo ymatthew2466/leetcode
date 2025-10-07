@@ -4,6 +4,8 @@ n=1
 
 - Arrays: 3151
 
+(first day of work so did a really easy one)
+
 ## 10/5
 
 n=2
