@@ -2,7 +2,7 @@
 
 n=1
 
-- Arrays: 290
+- Arrays: 290 (easy)
 
 ## 10/7
 
