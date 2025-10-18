@@ -4,6 +4,10 @@ n=1
 
 - Graph: 1267
 
+### Notes
+
+- can also be a counting question
+
 ## 10/10
 
 n=1
