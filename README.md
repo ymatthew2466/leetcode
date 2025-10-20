@@ -1,6 +1,18 @@
+## 10/19
+
+n=1
+
+- Array: 1509
+
+### Notes
+
+- Use greedy intuition
+
 ## 10/18
 
-n=...
+n=1
+
+- Graph: 200 (DFS)
 
 ## 10/17
 
